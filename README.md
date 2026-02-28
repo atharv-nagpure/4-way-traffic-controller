@@ -57,7 +57,7 @@ Combinational logic sets the output signals based on the current state.
 
 ## Block Diagram
 
-
+![Block Diagram](TrafficSignal.png)
 
 ## Learning Outcomes
 
@@ -68,3 +68,4 @@ Practice with combinational and sequential logic.
 Timing control using counters.
 
 Multi-output control system design in HDL.
+
